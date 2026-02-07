@@ -1,0 +1,2 @@
+# hardware_mediatek
+COMMON MEDIATEK HARDWARE COMPONENT
